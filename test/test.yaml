@@ -1,0 +1,27 @@
+api_ver: 1
+sections:
+- '00'
+sequence:
+- '00'
+voices:
+- '00'
+- '01'
+---
+- divisions: 1
+  name: '00'
+  notes:
+  - tick: 4
+  - note: 16
+    tick: 12
+    volm: 48
+  speed: 100
+  voice: '00'
+- divisions: 1
+  name: '00'
+  notes:
+  - tick: 4
+  - note: 16
+    tick: 12
+    volm: 48
+  speed: 100
+  voice: '01'

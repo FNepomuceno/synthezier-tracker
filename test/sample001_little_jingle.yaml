@@ -1,0 +1,107 @@
+---
+# Header
+api_ver: 1
+sections:
+  - !!str 00
+sequence:
+  - !!str 00
+voices:
+  - !!str 00
+---
+# Main data (by sections)
+- 
+  name: !!str 00 # Section tag
+  voice: !!str 00 # Voice tag
+  speed: 123 # In BPM
+  divisions: 2 # Portions of a beat required to make a full beat
+  notes:
+    -
+      # B3 - M1B1
+      note: 59
+      tick: 1
+      volm: 16
+    - 
+      # D4
+      note: 62
+      tick: 1
+      volm: 16
+    - 
+      # F#4
+      note: 66
+      tick: 1
+      volm: 16
+    - 
+      # B4
+      note: 71
+      tick: 1
+      volm: 16
+    -
+      # C#3 - M1B3
+      note: 61
+      tick: 1
+      volm: 16
+    - 
+      # E4
+      note: 64
+      tick: 1
+      volm: 16
+    - 
+      # G4
+      note: 67
+      tick: 1
+      volm: 16
+    - 
+      # C#4
+      note: 73
+      tick: 1
+      volm: 16
+    - 
+      # D4 - M2B1
+      note: 62
+      tick: 1
+      volm: 16
+    - 
+      # F#4
+      note: 66
+      tick: 1
+      volm: 16
+    - 
+      # G4
+      note: 67
+      tick: 1
+      volm: 16
+    - 
+      # B4
+      note: 71
+      tick: 1
+      volm: 16
+    - 
+      # A4 - M2B3
+      note: 69
+      tick: 1
+      volm: 16
+    - 
+      # G4
+      note: 67
+      tick: 1
+      volm: 16
+    - 
+      # F#4
+      note: 66
+      tick: 1
+      volm: 16
+    - 
+      # E4
+      note: 64
+      tick: 1
+      volm: 16
+    - 
+      # D#4 - M3B1
+      note: 63
+      tick: 6
+      volm: 16
+    - 
+      # -X-
+      note: -1
+      tick: 10
+      volm: 0

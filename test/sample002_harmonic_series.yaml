@@ -1,0 +1,107 @@
+---
+# Header
+api_ver: 1
+scalefile: harmonic.scl
+scalenotes:
+- C
+- D
+- E
+- Ft
+- G
+- Ad
+- Bbv
+- B
+sections:
+  - !!str 00
+sequence:
+  - !!str 00
+voices:
+  - !!str 00
+---
+# Main data (by sections)
+- 
+  name: !!str 00 # Section tag
+  voice: !!str 00 # Voice tag
+  speed: 100 # In BPM
+  divisions: 1 # Portions of a beat required to make a full beat
+  notes:
+    - 
+      degree: 0 # Scale degree starting with 0 at 0 cents
+      octave: 4 # Octave 4 degree 0 indicates the A440 note
+      tick: 1
+      volm: 16
+    - 
+      degree: 1
+      octave: 4
+      tick: 1
+      volm: 16
+    - 
+      degree: 2
+      octave: 4
+      tick: 1
+      volm: 16
+    - 
+      degree: 3
+      octave: 4
+      tick: 1
+      volm: 16
+    - 
+      degree: 4
+      octave: 4
+      tick: 1
+      volm: 16
+    - 
+      degree: 5
+      octave: 4
+      tick: 1
+      volm: 16
+    - 
+      degree: 6
+      octave: 4
+      tick: 1
+      volm: 16
+    - 
+      degree: 7
+      octave: 4
+      tick: 1
+      volm: 16
+    - 
+      degree: 0
+      octave: 5
+      tick: 1
+      volm: 16
+    - 
+      degree: 7
+      octave: 4
+      tick: 1
+      volm: 16
+    - 
+      degree: 6
+      octave: 4
+      tick: 1
+      volm: 16
+    - 
+      degree: 5
+      octave: 4
+      tick: 1
+      volm: 16
+    - 
+      degree: 4
+      octave: 4
+      tick: 1
+      volm: 16
+    - 
+      degree: 3
+      octave: 4
+      tick: 1
+      volm: 16
+    - 
+      degree: 2
+      octave: 4
+      tick: 1
+      volm: 16
+    - 
+      degree: 1
+      octave: 4
+      tick: 1
+      volm: 16
