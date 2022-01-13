@@ -1,5 +1,5 @@
 numpy==1.18.2
-Pillow==7.1.1
+Pillow==9.0.0
 pyo==1.0.1
 PyYAML==5.3.1
 six==1.14.0
